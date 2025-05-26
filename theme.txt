@@ -1,3 +1,7 @@
+# GRUB2 Linux custom theme
+# Designed by AfaafaBe for any resolution
+# Global Property
+
 title-text: "Boot menu"
 title-color: "#15f4ee"
 title-font: "Terminus (TTF) Bold 20"
